@@ -1,39 +1,49 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+# Memory Game
 
-Welcome ka-pa-ra,
+# Introduction
+Memory Game has long been a favorite game for all generations. It is easy to play, in fact it is so simple that really young children can play with ease.
+It requires observation, concentration and a good memory to win.
+This game is designed for a single player.
+![snippet](assets/images/pic.png)
+# Live demo 
+A live demo can be found here :
+https://ka-pa-ra.github.io/Memory-game/
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project.
+# UX
+This website is been build and designed for gaming users and to test a users memory.
 
-## Gitpod Reminders
+# Instructions
+* Click on a card
+* Keep revealing cards and working your memory to remember each unveiled card.
+* Match cards properly with less moves and in faster time
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+# Technologies Used
+*HTML was the language used to structure and present content for the web.
+*CSS3 was the language used in the styling and formatting the website content.
+*GitPod was the cloud-based IDE used, to write, run, and debug code with the web browser and to create the website.
+*Bootstrap a front-end component library, that was used to build responsive, mobile-first projects on the website.
+*Chrome Developer Tools was used to ensure that the responsive design worked properly.
+*GitHub was used for version control, o have a working copy/snippet of the code and full change history on the local machine.
+*FontAwesome was the preferred library, for the icons used on the website.
+*Google Fonts To find the appropriate typefaces for a website of this type.
 
-`python3 -m http.server`
+# Deployment
+The project was created by using the services of GitHub and the GitPod IDE. The project was edited in Gitpod and pushed and committed to Github repository.
 
-A blue button should appear to click: *Make Public*,
+To deploy the website I followed the follow steps:
+ 1. Navigate to the project’s repository;
+ 2. Navigate to the settings page;
+ 3. Scroll down to the section titled GitHub Pages;
+ 4. Select Master Branch from the Source dropdown;
+ 5. The GitHub Pages section changed to inform me that my site was ready to be published at https://ka-pa-ra.github.io/Francesco-Liverano-Private-Chef/ .
 
-Another blue button should appear to click: *Open Browser*.
+ # Credits/Media 
+ * https://unsplash.com// - For providing the possibility to use images. Also some images used are been taken form Francesco Liverano Instagram page.
+ * https://www.w3schools.com - For the idea of how to solve various issues.
+ * https://getbootstrap.com Bootstrap - for very detailed Documentation.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+ # Content 
+ Some text content are been copied/re-write  from various websites on the web .
 
-A blue button should appear to click: *Make Public*,
-
-Another blue button should appear to click: *Open Browser*.
-
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the backend lessons.
-
-## Updates Since The Instructional Video
-
-We continually tweak and adjust this template to help give you the best experience. Here are the updates since the original video was made:
-
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
-
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
---------
-
-Happy coding!
+# Disclaimer
+This project is for **educational** purposes only and will **NOT** be used in business or advertising.
