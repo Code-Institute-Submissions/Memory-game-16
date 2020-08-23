@@ -1,4 +1,4 @@
-var pairs = [1, 1, 2, 2]
+var pairs = [1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 6, 6]
 var flippedCards = []
 var foundPairs = 0
 var animating = false
@@ -12,7 +12,8 @@ function initGame() {
 
         card.style.transform = 'rotateY(0deg)'
         console.log(card.getElementsByTagName('img'))
-        card.getElementsByTagName('img')[0].src = 'assets/images/' + index + '.jpeg'
+        card.getElementsByClassName("card-back")[0].style.backgroundImage = 'url(assets/images/' + item + '.jpeg)'
+        //card.getElementsByTagName('img')[0].src = ' 
     })
 }
 

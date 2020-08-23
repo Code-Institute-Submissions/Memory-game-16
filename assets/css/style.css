@@ -43,4 +43,5 @@
   background-color: dodgerblue;
   color: white;
   transform: rotateY(180deg);
+  background-size: cover;
 }
